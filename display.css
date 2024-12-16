@@ -1,0 +1,36 @@
+#y{
+    width: 100px;
+    height:100px;
+    padding:25px;
+    margin:25px;
+    background-color: blue;
+}
+#x{
+    width: 100px;
+    height:100px;
+    padding:25px;
+    margin:25px;
+    background-color: blueviolet;
+    /* display: none; */
+    /* visibility: hidden; */
+}
+#o{
+    width: 100px;
+    height:100px;
+    padding: 25px;
+    margin: 25px;
+    background-color:red;
+}
+
+div{
+    display:inline-block;
+}
+#a{
+    width: 100px;
+    height:100px;
+    padding:25px;
+    margin:25px;
+    background-color: rgba(255,0,0,0.5);
+    /* ye div k properties es liye use kiye hai taki humko pata chal sake ki rgba ka  */
+    /* properties kiya hota hai or kaise set karte hain. */
+}

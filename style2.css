@@ -1,0 +1,14 @@
+p{
+    text-align: center;
+}
+
+a{
+    text-decoration: dotted;
+}
+#one{
+    font-family: arial;
+}
+
+#two{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}

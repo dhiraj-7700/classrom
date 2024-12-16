@@ -1,0 +1,18 @@
+#box1{
+    height: 100px;
+    width: 200px;
+    background-color: green;
+    font-size: 10px;
+}
+
+#box2{
+     width: 30%; 
+    background-color: yellow;
+    margin-left: 10%;
+    font-size: 2em;
+    width: 5rem;
+    /* height: 100vh;(view height iska maltlab ye hai jitna mera screen ka lambai hai usko cover krega.) */
+    height: 1vh;
+    /* width: 100vw;(view width iska matlab hai ki humscreen ka jitna cahuraiye hai usko cover krengye. ) */
+width: 7vw;
+}

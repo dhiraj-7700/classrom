@@ -1,0 +1,14 @@
+#one{
+    font-size: 28px;
+    line-height: 50px;
+    /* text-transform: none; */
+    /* text-transform: capitalize; */
+    /* text-transform: uppercase; */
+    text-transform: lowercase;
+}
+#two{
+    font-size: 20px;
+}
+#three{
+    font-size: 30px;
+}

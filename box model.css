@@ -1,0 +1,33 @@
+div{
+    height: 150px;
+    width: 90px;
+    background-color: red;
+    /* border-width: 8px; */
+    /* border-style: dotted; */
+    /* border-color: aqua; */
+    border: 6px dotted grey;
+    text-align: center;
+}
+
+h1{
+    height:200px;
+    width: 210px;
+    background-color: yellow;
+    border-width: 7px;
+    border-style: dashed;
+    border-color: blue;
+    text-align: center;
+}
+
+button{
+    height: 30px;
+    width: 80px;
+    background-color: blue;
+    border-width: 8px;
+    border-style: solid;
+    border-color: green;
+}
+
+p{
+    text-align: center;
+}
